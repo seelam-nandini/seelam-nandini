@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seelam-nandini&label=Profile%20views&color=0e75b6&style=flat" alt="seelam-nandini" /> </p>
 
 - 👨‍💻 My projects can be found on my Github profile : [https://github.com/seelam-nandini](https://github.com/seelam-nandini)
-- 🌱 Real time chat application using **JavaScript, React and Node.js**
+- 🌱 Real time chat application using **JavaScript, React.js and Node.js**
 - 💬 Feel free to ask me about **web development.**
 - 📫Get in touch! Email : **seelamnandini13@gmail.com**
 -  ⚡ Fun fact **I'm a coffee lover and sometimes it feels like my blood type is espresso!**
