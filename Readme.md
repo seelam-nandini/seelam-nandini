@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Seelam Nandini</h1>
 <h3 align="center">A passionate frontend web developer!</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw3JCVRs8-LetJP3AaNabYlO&ust=1705228433936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCAhpKV2oMDFQAAAAAdAAAAABAD" alt="image">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw3JCVRs8-LetJP3AaNabYlO&ust=1705228433936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCAhpKV2oMDFQAAAAAdAAAAABAD" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seelam-nandini&label=Profile%20views&color=0e75b6&style=flat" alt="seelam-nandini" /> </p>
 
