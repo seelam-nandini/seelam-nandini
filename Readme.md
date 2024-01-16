@@ -1,4 +1,4 @@
-![logo](https://github.com/seelam-nandini/seelam-nandini/blob/main/Banner%20Git%20Hub.png)
+
 
 <h1 align="center">Hi, I'm Seelam Nandini</h1>
 <h3 align="center">A passionate software developer!</h3>
